@@ -1,3 +1,23 @@
+<!-- Section added by Neotics. The original project's README follows the horizontal rule, unchanged. -->
+<p align="center">
+  <a href="https://neotics.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/neotics-wordmark-white.svg">
+      <img alt="Neotics" src=".github/neotics-wordmark.svg" height="34">
+    </picture>
+  </a>
+</p>
+
+### Neotics LeRobot · Learning from demonstrations
+
+This is the [Neotics](https://neotics.io) copy of [LeRobot](https://github.com/huggingface/lerobot). We keep this copy so we can build on it.
+
+The code here comes from the original project. Credit and copyright stay with its authors, under the project's own licence. Neotics is not affiliated with or endorsed by the original project.
+
+Neotics changed this README to add this section. Every change from the original is listed in [NEOTICS.md](NEOTICS.md).
+
+---
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="./media/readme/lerobot-logo-thumbnail.png" width="100%">
 </p>
